@@ -1,4 +1,4 @@
 # rohan-demo
 this is my first Git Repository.
 <br>
-Author - Rohan (pratik)
+Author - Rohan
